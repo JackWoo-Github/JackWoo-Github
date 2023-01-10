@@ -22,7 +22,7 @@
 <a href="https://plotly.com/" target="_blank">![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)</a>
 <a href="https://ggplot2.tidyverse.org/" target="_blank">![ggplot2](https://img.shields.io/badge/ggplot2-lightblue?style=flat-square&logo=R&logoColor=white)</a>
 - Data Modeling:  
-<a href="https://www.statsmodels.org/stable/index.html/" target="_blank">![Statsmodels](https://img.shields.io/badge/Statsmodels-orange?style=flat-square&logo=Python&logoColor=white)</a>
+<a href="https://www.statsmodels.org/" target="_blank">![Statsmodels](https://img.shields.io/badge/Statsmodels-orange?style=flat-square&logo=Python&logoColor=white)</a>
 <a href="https://scikit-learn.org/" target="_blank">![Sklearn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)</a>
 <a href="https://keras.io/" target="_blank">![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)</a>
 <a href="https://www.tensorflow.org/" target="_blank">![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)</a>
