@@ -1,5 +1,5 @@
-### Hey Yo! This is JackWoo:stuck_out_tongue_winking_eye:
-#### Excited about finding creative solutions to seemingly intractable problems!<br/>Believe the magic by marrying data science with Economics!
+### Hey Yo! This is JackWoo😜
+#### I am excited about finding creative solutions to seemingly intractable problems!<br/>I believe the magic by marrying data science with Economics!
 
 🛠️ My Tech kits:
 - Softwares:  
