@@ -33,7 +33,7 @@
 - UIBE: Bachelor of Finance
 
 📧 Reach out to me:
-- JackWoo@g.ucla.edu
+- jackwoo@g.ucla.edu
 - https://www.linkedin.com/in/junyue-wu-ucla/
 
 <div align="right" width="50">
