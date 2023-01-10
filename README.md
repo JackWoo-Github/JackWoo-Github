@@ -29,11 +29,11 @@
 <a href="https://www.nltk.org/" target="_blank">![NLTK](https://img.shields.io/badge/NLTK-brown?style=flat-square&logo=Python&logoColor=white)</a>
 
 🎓 Education:
-- UCLA: Master of Quantitative Economics
+- UCLA: Master of Quantitative Economics (In progress)
 - UIBE: Bachelor of Finance
 
 📧 Reach out to me:
-- jackwoo@g.ucla.edu
+- JackWoo@g.ucla.edu
 - https://www.linkedin.com/in/junyue-wu-ucla/
 
 <div align="right" width="50">
