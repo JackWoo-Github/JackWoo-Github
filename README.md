@@ -35,3 +35,7 @@
 📧 Reach out to me:
 - jackwoo@g.ucla.edu
 - https://www.linkedin.com/in/junyue-wu-ucla/
+
+<div align="right" width="50">
+  <img src="https://gifdb.com/images/file/turned-back-sleepy-cat-animation-jk842xgqkt4064kt.gif" alt="Welcome!" style="width:150px;height:150px;border:0" />
+</div>
