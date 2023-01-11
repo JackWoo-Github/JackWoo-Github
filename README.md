@@ -2,7 +2,7 @@
 #### I am excited about finding creative solutions to seemingly intractable problems!<br/> Marrying data science with Economics, I hope to bring about great business value...
 
 🛠️ My Tech kits:
-- Softwares:  
+- Languages/Softwares:  
 <a href="https://www.python.org/" target="_blank">![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)</a>
 <a href="https://www.r-project.org/" target="_blank">![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)</a>
 <a href="https://www.cplusplus.com/" target="_blank">![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)</a>
