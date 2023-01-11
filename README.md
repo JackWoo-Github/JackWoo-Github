@@ -32,6 +32,9 @@
 - UCLA: Master of Quantitative Economics (In progress)
 - UIBE: Bachelor of Finance
 
+🎨 Hobbies:
+- 🎸🎻🎙️🏀🏓🏊‍♂️📷🎞️
+
 📧 Reach out to me:
 - jackwoo@g.ucla.edu
 - https://www.linkedin.com/in/junyue-wu-ucla/
