@@ -1,4 +1,4 @@
-### Hey Yo! This is JackWoo😜
+### Hey Yo! This is JackWoo
 #### I am excited about finding creative solutions to seemingly intractable problems!<br/> Marrying data science with Economics, I hope to bring about great business value...
 
 🛠️ My Tech kits:
