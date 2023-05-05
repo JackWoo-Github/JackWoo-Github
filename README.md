@@ -35,7 +35,7 @@
 🎨 Hobbies:
 - 🎸🎻🎙️🏀🏓🏊‍♂️📷🎞️
 
-📧 Reach out to me:
+📧 Email and Webs:
 - jackwoo@g.ucla.edu
 - https://www.linkedin.com/in/junyue-wu-ucla/
 - https://public.tableau.com/app/profile/junyue.wu99
