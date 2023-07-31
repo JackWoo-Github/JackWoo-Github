@@ -29,7 +29,7 @@
 <a href="https://www.nltk.org/" target="_blank">![NLTK](https://img.shields.io/badge/NLTK-brown?style=flat-square&logo=Python&logoColor=white)</a>
 
 🎓 Education:
-- UCLA: Master of Quantitative Economics (In progress)
+- UCLA: Master of Quantitative Economics
 - UIBE: Bachelor of Finance
 
 🎨 Hobbies:
